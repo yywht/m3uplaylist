@@ -1,0 +1,19 @@
+﻿#EXTM3U
+#EXTINF:-1 ,湖南卫视
+http://cdn10.shockium.com/hunan.m3u8
+#EXTINF:-1 ,江苏卫视
+http://hoge.play7.cloud.henancatv.com/jsws/hd/live.m3u8
+#EXTINF:-1 ,贵州卫视
+http://hoge.play8.cloud.henancatv.com/guizhouws/sd/live.m3u8
+#EXTINF:-1 ,江西卫视
+http://hoge.play6.cloud.henancatv.com/jiangxiws/sd/live.m3u8
+#EXTINF:-1 ,CCTV-1
+http://live5.plus.hebtv.com/cctv1/sd/live.m3u8
+#EXTINF:-1 ,CCTV-3
+http://hoge.play8.cloud.henancatv.com/cctv3/hd/live.m3u8
+#EXTINF:-1 ,都市频道
+http://hoge.play3.cloud.henancatv.com/hntv2/sd/live.m3u8
+#EXTINF:-1 ,民生频道
+http://hoge.play10.cloud.henancatv.com/hntv3/sd/live.m3u8
+#EXTINF:-1 ,法制频道
+http://hoge.play10.cloud.henancatv.com/hntv4/sd/live.m3u8
