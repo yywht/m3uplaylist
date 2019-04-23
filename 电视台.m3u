@@ -50,21 +50,7 @@ http://123.249.76.157:10017/bysid/2
 #EXTINF:-1 ,港凤凰中文台HD2
 
 http://123.249.76.157:10017/bysid/5
-#EXTINF:-1 ,香港18台
 
-rtmp://wv1.tp33.net/sat/hk041
-#EXTINF:-1 ,台HBO
-
-http://125.227.210.37:8895/VideoInput/play.ts
-#EXTINF:-1 ,港TVB
-
-http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8
-#EXTINF:-1 ,TVB=J2
-
-rtmp://zblive.dj88.club:10085/hls/j2
-#EXTINF:-1 ,台星卫电影
-
-http://122.146.68.116:4048/VideoInput/play.ts
 #EXTINF:-1 ,台三立新闻
 
 http://125.227.210.37:8912/VideoInput/play.ts
